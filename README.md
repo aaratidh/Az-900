@@ -31,7 +31,16 @@ Can be more expensive
 
 | Private cloud              | 1    | 2    |
 | :-----:              | :---: | :---: |
-| Public cloud:        | 301   | 283   |
+| Public cloud:        | No Capex, pay as you go, no hardware maintenance No Deep technical skills required | Security& compliance Ownership, Specific Scenarios with unique |
+| :-----:              | :---: | :---: |
+| Private cloud:       | CapEx is required, Run legacy app in private cloud, Utilize existing infrastructure, meet any security requirements |  Can be more expensive
+Complicate to manage 
+Its skill & expertise are mandatory  | 
+| :-----:              | :---: | :---: |
+|Hybrid cloud | Hybrid cloud is a cloud deployment service where you can use both public cloud and private cloud services. Both services can be interconnected with each other.  | Need it expertise to handle services  Complicated to manage  Can be more expensive |
+
+
+
 
 ## Describe the consumption-based Model? 
 Capital expenditure (CapEx), operational expenditure (OpEx).
