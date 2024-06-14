@@ -29,9 +29,9 @@ Hybrid cloud: 	Hybrid cloud is a cloud deployment service where you can use both
 Complicated to manage 
 Can be more expensive 
 
-| Attempt | #1    | #2    |
-| :-----: | :---: | :---: |
-| Seconds | 301   | 283   |
+| Private cloud              | 1    | 2    |
+| :-----:              | :---: | :---: |
+| Public cloud:        | 301   | 283   |
 
 ## Describe the consumption-based Model? 
 Capital expenditure (CapEx), operational expenditure (OpEx).
